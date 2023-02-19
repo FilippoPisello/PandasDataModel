@@ -1,0 +1,7 @@
+/.ipynb_checkpoints
+/.pytest_cache
+/.vscode
+/pandasdatamodel.egg-info
+/Playground.ipynb
+/test.py
+/venv
